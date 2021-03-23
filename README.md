@@ -5,6 +5,7 @@ To UP Minikube
 $>minikube start
 
 To Dashboard
+
 $> minikube dashboard 
 
 
